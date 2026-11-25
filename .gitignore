@@ -1,0 +1,8 @@
+.env
+bot_data.json
+*serviceAccount*.json
+*firebase*.json
+__pycache__/
+*.pyc
+venv/
+.venv/
